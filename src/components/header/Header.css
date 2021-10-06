@@ -1,0 +1,99 @@
+.header{
+    background-color: rgb(156, 16, 16);
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header__logo{
+    height: 80px;
+    margin: 0 20px;
+    margin-top: 10px;
+    object-fit: contain;
+    width: 80px;
+}
+
+.header__centerMenu{
+    align-items: center;
+    display: flex;
+    flex:1;
+    justify-content: center;
+}
+
+.header__centerLink{
+    color: white;
+    flex-wrap: nowrap;
+    font-weight: 600;
+    padding: 0 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.header__centerLink:hover{
+    font-size: large;
+    text-decoration: underline 2px white;
+    transition: 6ms;
+}
+
+.header__rightMenu{
+    align-items: center;
+    display: flex;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-right: 10px; 
+}
+
+.header__rightLink{
+    color: white;
+    text-decoration: none;
+}
+
+.header__option{
+    display: flex;
+    flex-direction: column;
+    margin: 0 10px;
+}
+
+.header__optionLineOne{
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.header__optionLineTwo{
+    font-size: 13px;
+    font-weight: 900;
+    font-weight: 800px;
+}
+.header__optionCarrinho{
+    display: flex;
+    align-items: center;
+}
+
+.header__carrinhoLogo{
+    height: 50px;
+    margin: 0 5px;
+    margin-top: 5px;
+    object-fit: contain;
+    width: 80px;
+
+}
+
+.header__CountCarrinho{
+    color: #fff;
+    font-size: large;
+    font-weight: bold;
+    margin-left: 1px;
+    margin-right: 10px;
+}
+
+@media (max-width: 768px){
+    .header{
+        justify-content: space-between;
+    }
+    .header__centerMenu{
+    display:none;
+}
+}
+

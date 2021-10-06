@@ -1,0 +1,93 @@
+.login{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.login__bg{
+    background-image: url("https://wallpaperaccess.com/full/950276.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;    
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
+
+.login__companyIcon{
+    margin-bottom: 6px ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    object-fit: contain;
+    width: 150px;   
+}
+
+.login__container{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    padding: 20px;
+    width: 300px ;
+}
+
+.login__containerTitle{
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.login__containerType{
+    margin-bottom: 5px;
+}
+
+input{
+    background-color: white;
+   height: 30px;
+   margin-bottom: 10px;
+   width: 98%
+}
+
+.login__sighInButton{
+    background-color: darkred;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 2px;
+    color: white;
+    height: 30px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.login__containerText{
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.login__registerButton{
+    border: 1px solid;
+    border-color: darkgray;
+    border-radius: 2px;
+    height: 30px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.login__logos{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 12px;  
+}
+
+.login__logo{
+    height: 80px;
+    margin-left: 10px;
+    margin-top:  10px;
+    width: 80px;
+    
+}

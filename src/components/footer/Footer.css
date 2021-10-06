@@ -1,0 +1,26 @@
+
+.footer{
+    background-color: rgb(156, 16, 16);
+    height: 100px;
+    margin-bottom: 0;
+}
+.footer__text{
+    font-size: large;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.footer__row{
+    align-items: center;
+    display: flex;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    justify-content: center;
+}
+
+.footer__icone{
+    height: 54px;
+    margin-left: 15px;
+    width: 54px;
+}
+

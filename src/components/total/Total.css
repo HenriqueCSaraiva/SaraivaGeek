@@ -1,0 +1,32 @@
+.total{
+    background-color: #f3f3f3;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+    justify-content: space-between;
+    padding: 20px;
+    width: 100%;
+}
+
+.total__subtotal{
+    margin-bottom: 0.3rem;
+}
+
+.total__frete{
+    margin-bottom: 0.3rem;
+}
+
+.total__button{
+    align-items: center;
+    background-color: darkred;
+    border: 1px solid;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    justify-content: center;
+    margin-top: 0.5rem;
+    width: 200px;
+}
+

@@ -1,0 +1,14 @@
+.banner__image{
+    background-repeat: no-repeat;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: 100% 5% ;
+    width: 100%;
+}
+
+.titulo{
+    font-size: larger;
+    font-weight: 500;
+    margin: 20px 40px;
+    text-transform: uppercase;
+}
