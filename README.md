@@ -1,19 +1,21 @@
-# Netflix Clone
+# Saraiva Geek - E-commerce
 
-https://user-images.githubusercontent.com/86918112/135367128-cbc7addc-efe4-4713-8fe0-bfc4a86972e9.mp4
+![Homepage](https://user-images.githubusercontent.com/86918112/136299676-8b141e17-f8ce-410b-aebe-931379dcc47a.png)
 
 <div align="center" style="margin: 20px; text-align: center">
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/HenriqueCSaraiva/Netflix-Clone?color=green&style=flat-square)
-  ![GitHub top language](https://img.shields.io/github/languages/top/HenriqueCSaraiva/Netflix-Clone?style=flat-square)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/HenriqueCSaraiva/SaraivaGeek?color=green&style=flat-square)
+  ![GitHub top language](https://img.shields.io/github/languages/top/HenriqueCSaraiva/SaraivaGeek?style=flat-square)
 
 </div>
 
 <br>
 
-## Access the app on Firebase Hosting 🔥🔥
-https://netflix-clone-34da6.web.app/
+## Access this project on Firebase Hosting 🔥🔥
+https://e-geek.firebaseapp.com/
+
+https://e-geek.web.app/
 
 <br>
 
@@ -29,31 +31,34 @@ https://netflix-clone-34da6.web.app/
 
 ##
 
-![Netflix](https://user-images.githubusercontent.com/86918112/135367741-c6bb0f38-8bab-4aec-942a-730900139a29.png)
+![Basket](https://user-images.githubusercontent.com/86918112/136300333-80f35521-af02-4df4-9449-30d03827bac5.png)
 
 <br>
 
 ## Project :star2:
 
-This repo contains an UI Clone from Netflix Homepage.
+This repo contains an Gaming eCommerce using ReactJS.
 
 <br>
 
-![Netflix2](https://user-images.githubusercontent.com/86918112/135367991-283c6260-f504-48ee-8757-6d56b1b3aa2a.png)
+![LoginPage](https://user-images.githubusercontent.com/86918112/136299922-0e0e6d32-f9b8-43ba-8d0c-4bd713421e2d.png)
+
 
 <br>
 
 ## Techs :rocket:
 
 - [x] [ReactJS](https://reactjs.org);
+- [x] [ReactContextAPI](https://reactjs.org/docs/context.html).
+- [x] [ReactRouter](https://reactrouter.com/web/guides/quick-start).
 - [x] [FireBase](https://firebase.google.com/docs);
-- [x] [Axios](https://axios-http.com/docs/intro).
 
 <br>
 
+
 ## Installation :wrench:
 
-First you need to clone the project using `git clone https://github.com/HenriqueCSaraiva/Netflix-Clone`.
+First you need to clone the project using `git clone https://github.com/HenriqueCSaraiva/SaraivaGeek`.
 
 You can install the application using `npm install` or `yarn install` on the root dir.
 
@@ -69,5 +74,5 @@ To start the application interface just run `npm start` or `yarn start` on the r
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](https://github.com/HenriqueCSaraiva/Netflix-Clone/blob/master/LICENSE)**;
+- **[MIT license](https://github.com/HenriqueCSaraiva/SaraivaGeek/blob/master/LICENSE)**;
 - Copyright 2021 © <a href="https://github.com/HenriqueCSaraiva" target="_blank">Henrique Saraiva
