@@ -75,4 +75,4 @@ To start the application interface just run `npm start` or `yarn start` on the r
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](https://github.com/HenriqueCSaraiva/SaraivaGeek/blob/master/LICENSE)**;
-- Copyright 2021 © <a href="https://github.com/HenriqueCSaraiva" target="_blank">Henrique Saraiva
+
